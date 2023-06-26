@@ -1,0 +1,145 @@
+.latihan {
+  width: 1920px;
+}
+.seksi1-0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rebeccapurple;
+  margin: auto;
+  width: 1920px;
+  height: 82px;
+  align-content: center;
+}
+.seksi1-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  align-content: center;
+}
+.seksi1-0-1 {
+  width: 132px;
+  height: 36px;
+}
+.seksi1-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.seksi1-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  font-size: 16px;
+  font-weight: 700;
+  align-items: center;
+}
+.seksi1-3-1 {
+  color: #f95c19;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.seksi1-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  color: black chartreuse;
+  align-items: center;
+  width: fit-content;
+}
+.seksi1-4-1 {
+  color: #ffaf0f;
+}
+.seksi2-0 {
+  display: flex;
+  gap: 25px;
+}
+.seksi2-1 {
+  color: blue;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin: auto;
+  gap: 10px;
+}
+.seksi2-1-1 {
+  text-align: end;
+  font-size: 49px;
+  width: 400;
+  justify-items: end;
+  background-color: yellow;
+}
+.seksi2-1-2 {
+  font-weight: 800;
+  font-size: 49px;
+}
+.seksi2-1-3 {
+  width: 330px;
+}
+.seksi2-1-4 {
+  color: white;
+}
+.seksi2-1-5 {
+  display: flex;
+  flex-direction: row;
+  background-color: #f95c19;
+  border-radius: 10px;
+  width: fit-content;
+  height: 35px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.seksi2-2 {
+  color: yellow;
+  background-color: red;
+  width: 958px;
+  height: 517px;
+}
+.seksi30{gap:25px;
+
+}
+.seksi3-0-1{text-align:center;
+
+}
+.seksi3-0 {display:flex; flex-direction: row;
+  
+}
+.seksi3-1 {font-weight:800;color: #f95c19;
+}
+.seksi3-2 {
+
+
+}
+.seksi3-3-0{gap:10px; margin:auto;
+
+}
+.seksi3-3 {
+  display: flex;flex-direction: column;
+  gap: 10px;
+
+}
+.seksi3-3-1 {display: flex;flex-direction: column;
+}
+.seksi3-3-2 { width:300px;
+}
+.seksi3-3-3 {
+}
+.seksi3-3-4 {
+}
+.seksi40{
+display: flex; flex-direction: row;
+}
+.seksi41{
+  display:flex; flex-direction: column; margin:auto;
+
+}
+.seksi2{
+
+}
